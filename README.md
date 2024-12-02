@@ -6,7 +6,7 @@
  You must fill in SESSION following the instructions below.
 
  You can find SESSION by using Chrome tools:
- 1) Go to https://adventofcode.com/2022/day/1/input
+ 1) Go to https://adventofcode.com/2024/day/1/input
  2) right-click -> inspect -> click the "Application" tab.
  3) Refresh
  4) Click https://adventofcode.com under "Cookies"
